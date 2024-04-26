@@ -45,4 +45,4 @@ This project focuses on analyzing tourist attractions in Pakistan using Python, 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/2salman-19/tourist-attractions-analysis.git
+   git clone https://github.com/2salman-19/Top-Tourist-Destinations-in-Pakistan.git
